@@ -4,6 +4,8 @@ github: https://github.com/AndrewBurke87/noteTaker
 
 heroku: https://ajbnote-taker.herokuapp.com/
 
+Screenshot: <img src="./assets/img.png" >
+
 # Table of Contents
 
      * [Project Description](#project - description)
