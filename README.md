@@ -2,7 +2,7 @@
 
 github: https://github.com/AndrewBurke87/noteTaker
 
-heroku: https://git.heroku.com/ajbnote-taker.git
+heroku: https://ajbnote-taker.herokuapp.com/
 
 # Table of Contents
 
