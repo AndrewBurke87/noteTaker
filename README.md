@@ -1,5 +1,9 @@
 # **Note Taker**
 
+github: https://github.com/AndrewBurke87/noteTaker
+
+heroku: https://git.heroku.com/ajbnote-taker.git
+
 # Table of Contents
 
      * [Project Description](#project - description)
@@ -33,7 +37,6 @@
 # Contributions
 
      No
-
 
 # Questions
 
